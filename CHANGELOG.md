@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.1](https://github.com/Efreak/runpodctl/compare/v1.10.0...v1.10.1) (2023-09-19)
+
+
+### Bug Fixes
+
+* persistent typo ([02f38db](https://github.com/Efreak/runpodctl/commit/02f38dbc9e11d2f22028538f73f67c938738be61))
+
 ## [1.10.0](https://github.com/runpod/runpodctl/compare/v1.9.0...v1.10.0) (2023-04-08)
 
 
